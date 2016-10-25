@@ -1,3 +1,5 @@
+ACLOCAL_AMFLAGS=-I m4
+
 #All exported headers
 nobase_include_HEADERS = sonic/sdi_bus_api.h sonic/sdi_bus_framework.h sonic/sdi_bus.h \
                          sonic/sdi_driver_internal.h sonic/sdi_entity_info_internal.h \
