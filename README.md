@@ -6,7 +6,7 @@ As you likely know the sonic-sdi-api is used as an interface to the hardware by 
 
 Description
 -----------
-The framework provides mechanism using which drivers can register themselves and their resources, buses and other facitlities that can be used either by other drivers or by sdi-sys. 
+The framework provides mechanism using which drivers can register themselves and their resources, buses and other facilities that can be used either by other drivers or by sdi-sys. 
 
 There are also a number of hardware BUS utility functions used by the sonic-sdi-device-drivers.
 
